@@ -2,8 +2,10 @@
 
 Independent smart contract security research — Solidity/EVM.
 
-I hunt on Immunefi, HackenProof and Sherlock, and take private
-audits for teams building toward mainnet. Every finding I report
+I take private audits for teams building toward mainnet, and hunt on Immunefi, HackenProof and Sherlock.
+
+Every finding I report comes with a working proof of concept. Every finding I report
+
 comes with a working proof of concept.
 
 ## Findings
